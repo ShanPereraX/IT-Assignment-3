@@ -1,0 +1,41 @@
+.container {
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    padding: 1vw;
+}
+
+.items {
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 15vw;
+}
+#c1{
+    grid-column: 1/ span 2;
+    background-color: red;
+}
+#c2{
+    background-color: green;
+}
+#c3,#c7,#c11{
+    background-color: firebrick;
+    border: none;
+}
+#c4{
+    background-color:purple;
+}
+#c5{
+    background-color: deeppink;
+}
+#c6{
+    background-color: blue;
+}
+#c8{
+    background-color: brown;
+}
+#c9,#c10{
+    border: none;
+    background-color: darkblue;
+}
+#c12{
+ display: none;
+}

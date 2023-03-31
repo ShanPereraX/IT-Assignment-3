@@ -1,0 +1,108 @@
+
+.main{
+    height: 400vh;
+}
+.mainCircle{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 100%;
+    width:25vw;
+    height: 50vh;
+    background-color: grey;
+
+}
+.innerCircle1{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 100%;
+    width:20vw;
+    height: 40vh;
+    background-color: red;
+}
+.innerCircle2{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 100%;
+    width:15vw;
+    height: 30vh;
+    background-color: white;
+}
+.text{
+    position: absolute;
+    font-family: 'anton';
+    color: black;
+}
+.spaceFromAbove{
+    margin-top: 1000vh;
+}
+.c1{
+    position: relative;
+    width:15vw;
+    height: 30vh;
+    background-color: purple;
+    border-radius: 100%;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    margin: auto;
+    margin-top: 100vh;
+}
+#c1Text{
+    font-size: 3vw;
+    left:4vw;
+    top:4vw;
+
+}
+
+.c2{
+    position: relative;
+    width:15vw;
+    height: 30vh;
+    background-color: blue;
+    border-radius: 100%;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    margin: auto;
+    margin-top: 100vh;
+}
+#c2Text{
+    font-size: 2vw;
+    left:3vw;
+    top:10vh;
+
+
+}
+
+.c3{
+    position: relative;
+    width:15vw;
+    height: 30vh;
+    background-color: green;
+    border-radius: 100%;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    margin: auto;
+    margin-top: 100vh;
+}
+#c3Text{
+    font-size: 1.5vw;
+    left:3vw;
+    top:6vh;
+}

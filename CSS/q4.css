@@ -1,0 +1,47 @@
+.cardHeader{
+    position: sticky;
+    width: 100vw;
+    height: 10vh;
+    color: white;
+    font-family: 'anton';
+    top:0;
+    font-size: 5vh;
+}
+.cardBody{
+    top:100vh;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'anton';
+    font-size: 10vw;
+    color: black;
+}
+.cardText{
+    text-align: center;
+}
+#c1h{
+    background-color: red;
+}
+#c1b{
+    background-color: white;
+
+}
+#c2h{
+    background-color: blue;
+}
+#c2b{
+    background-color: lightblue;
+}
+#c3h{
+    background-color: black;
+}
+#c3b{
+    background-color: grey;
+}
+
+#c4h{
+    background-color: yellow;
+}
+#c4b{
+    background-color: lightyellow;
+}
+

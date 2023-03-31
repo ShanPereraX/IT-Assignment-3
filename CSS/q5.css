@@ -1,0 +1,52 @@
+.container{
+    display: grid;
+    background-color:black;
+    padding: 1px;
+    grid-template-columns: auto auto auto auto;
+}
+.child{
+    height: 13.1vw;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#c1{
+    background-color: red;
+}
+#c2{
+    background-color: blue;
+}
+#c3{
+    background-color: green;
+}
+#c4{
+    background-color: yellow;
+}
+#c5{
+    background-color: orange;
+}
+#c6{
+    background-color: purple;
+}
+#c7{
+    background-color: pink;
+}
+#c8{
+    background-color: brown;
+}
+#c9{
+    background-color: grey;
+}
+#c10{
+    background-color: black;
+}
+#c11{
+    background-color: white;
+}
+#c12{
+    background-color: red;
+}
